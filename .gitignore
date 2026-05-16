@@ -1,0 +1,33 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+
+# ===== IDE / OS =====
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ===== 강의자료 (저작권 보호) =====
+sample.pdf
+sample.txt
+sample.md
+*.quiz.json
+backup_quiz_output.txt
+
+# ===== 시연 준비물 (내부용) =====
+.qa/
+_preview*.jpg
+HANDOFF.md
+CUE_SHEET.md
+gemma4-seminar.pdf
+
+# ===== 환경/로그 =====
+*.log
+.cache/
+.streamlit/secrets.toml

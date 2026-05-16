@@ -1,0 +1,7 @@
+ollama>=0.4.0
+pypdf>=4.0.0
+# (선택, 멀티모달 데모용)
+pdf2image>=1.17.0
+Pillow>=10.0.0
+# 웹 UI (Bonus)
+streamlit>=1.30.0

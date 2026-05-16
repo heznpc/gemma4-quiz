@@ -1,0 +1,8 @@
+[theme]
+primaryColor = "#8C1D40"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"   # 시연용 — Deploy/About 등 본체 메뉴 숨김 (Settings는 남음)
